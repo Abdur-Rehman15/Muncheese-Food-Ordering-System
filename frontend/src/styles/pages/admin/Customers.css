@@ -1,0 +1,36 @@
+.customers {
+  padding: 2rem;
+}
+
+.customers h1 {
+  margin-bottom: 1.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #333;
+  color: white;
+}
+
+th, td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+.error {
+  color: red;
+  padding: 1rem;
+}
+
+
+
+
